@@ -1,4 +1,4 @@
-## Hi there 👋
+Computer science student at University of Wrocław
 
 <!--
 **C0play/C0play** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
